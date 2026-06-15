@@ -1,6 +1,6 @@
 ---
 name: reality-check
-description: How to interrogate the user about the system and codebase.
+description: How to interrogate the user and test their knowledge and understanding the system and codebase.
 ---
 # Reality Check
 
